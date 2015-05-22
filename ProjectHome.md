@@ -1,0 +1,1 @@
+Copy/Move/Delete tabs amongst Visualchart workspaces
